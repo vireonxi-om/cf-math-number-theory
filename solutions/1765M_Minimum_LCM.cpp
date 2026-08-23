@@ -59,3 +59,4 @@ int main() {
 
 
 
+// maintenance note (2): add complexity note to this file — 2026-08-23

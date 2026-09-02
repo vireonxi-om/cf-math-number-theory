@@ -26,4 +26,4 @@ int main(){
     scanf("%d", &t);
     for(int i=1; i<=t; i++) solve();
     return 0;
-}
+}// maintenance note (6): minor readability pass on this file — 2026-09-02

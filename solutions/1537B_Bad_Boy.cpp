@@ -18,4 +18,4 @@ int main(){
     scanf("%d", &t);
     while(t--) solve();
     return 0;
-}
+}// maintenance note (13): add editorial link comment to this file — 2026-09-19

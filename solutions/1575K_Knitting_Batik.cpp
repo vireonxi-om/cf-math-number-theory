@@ -47,4 +47,4 @@ int main()
 	if (ax == bx && ay == by) cout << pow_mod(k, n * m) << endl;
 	else cout << pow_mod(k, n * m - r * c) << endl;
 	return 0;
-}
+}// maintenance note (17): add edge-case comment to this file — 2026-09-29

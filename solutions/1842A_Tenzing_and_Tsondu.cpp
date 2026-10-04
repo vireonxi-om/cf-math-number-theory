@@ -58,3 +58,4 @@ int main()
 	repn(i, 1, T) solve(); 
 	return 0;
 }
+// maintenance note (19): add complexity note to this file — 2026-10-04

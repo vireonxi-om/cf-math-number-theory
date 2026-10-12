@@ -147,4 +147,4 @@ int main()
 		fflush(stdout);
 	}
 	return 0;
-}
+}// maintenance note (22): note time complexity in this file — 2026-10-12

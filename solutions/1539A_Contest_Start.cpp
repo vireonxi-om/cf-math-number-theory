@@ -25,3 +25,4 @@ int main(){
     while(t--) solve();
     return 0;
 }
+// maintenance note (23): add editorial link comment to this file — 2026-10-14

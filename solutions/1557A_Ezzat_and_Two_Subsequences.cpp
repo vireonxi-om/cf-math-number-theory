@@ -57,3 +57,4 @@ int main(){
     while (t--) solve();
     return 0;
 }
+// maintenance note (24): minor readability pass on this file — 2026-10-17

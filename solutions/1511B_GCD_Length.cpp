@@ -33,3 +33,4 @@ int main(){
     while(t--) solve();
     return 0;
 }
+// maintenance note (25): add edge-case comment to this file — 2026-10-19
